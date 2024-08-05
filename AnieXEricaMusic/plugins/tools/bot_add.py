@@ -10,11 +10,10 @@ from pyrogram.types import (
     Message,
 )
 from config import LOGGER_ID as LOG_GROUP_ID
-from VIPMUSIC import app
-from VIPMUSIC.core.userbot import Userbot
-from VIPMUSIC.utils.database import delete_served_chat, add_served_chat
-from VIPMUSIC.utils.database import get_assistant
-
+from AnieXEricaMusic import app
+from AnieXEricaMusic.core.userbot import Userbot
+from AnieXEricaMusic.utils.database import delete_served_chat, add_served_chat
+from AnieXEricaMusic.utils.database import get_assistant
 
 photo = [
     "https://telegra.ph/file/57d5705756c589e14a1a3.jpg",
