@@ -2,9 +2,9 @@ import math
 from typing import Union
 from pyrogram.types import InlineKeyboardButton
 
-from VIPMUSIC.utils.formatters import time_to_seconds
+from AnieXEricaMusic.utils.formatters import time_to_seconds
 
-from VIPMUSIC import app
+from AnieXEricaMusic import app
 
 
 def track_markup(_, user_id, channel, fplay):
@@ -141,11 +141,11 @@ def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
         [
             InlineKeyboardButton(
                 text=_["P_B_1"],
-                callback_data=f"VIPPlaylists {videoid}|{user_id}|{ptype}|a|{channel}|{fplay}",
+                callback_data=f"AviaxPlaylists {videoid}|{user_id}|{ptype}|a|{channel}|{fplay}",
             ),
             InlineKeyboardButton(
                 text=_["P_B_2"],
-                callback_data=f"VIPPlaylists {videoid}|{user_id}|{ptype}|v|{channel}|{fplay}",
+                callback_data=f"AviaxPlaylists {videoid}|{user_id}|{ptype}|v|{channel}|{fplay}",
             ),
         ],
         [
@@ -336,10 +336,10 @@ def stream_markup_timer2(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="✭ ᴜᴘᴅᴀᴛᴇs ✭", url=config.SUPPORT_CHANNEL
+                text="𝐒ʜᴜʙʜᴏ ♡", url=f"https://t.me/Chini_tomare",
             ),
             InlineKeyboardButton(
-                text="✭ sᴜᴘᴘᴏʀᴛ ✭", url=config.SUPPORT_CHAT
+                text="𝐒ᴏʜɪɴɪ ♡", url=f"https://t.me/Cheynos_amare",
             )
         ],
         [ 
