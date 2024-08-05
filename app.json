@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.from @Sophia_x_MusicBot on Telegram.",
-        "value": "7137269276",
+        "value": "6007582960",
         "required": true
       },
     "OWNER": {
@@ -105,17 +105,17 @@
       },
       "START_IMG_URL": {
         "description": "Your Bot Start Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-        "value": "Yᴏᴜʀ ʟɪɴᴋ sᴜᴄᴄᴇssғᴜʟ Gᴇɴ https://telegra.ph/file/4cbba4b1d7a8ee1d82535.jpg",
+        "value": "https://telegra.ph/file/4cbba4b1d7a8ee1d82535.jpg",
         "required": false
       },
       "PING_IMG_URL": {
         "description": "Your Bot Ping Check Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-        "value": "Yᴏᴜʀ ʟɪɴᴋ sᴜᴄᴄᴇssғᴜʟ Gᴇɴ https://telegra.ph/file/26454b1d7de3155c07edb.jpg",
+        "value": "https://telegra.ph/file/26454b1d7de3155c07edb.jpg",
         "required": false
       },
       "STATS_IMG_URL": {
         "description": "Your Bot Stats Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-        "value": "Yᴏᴜʀ ʟɪɴᴋ sᴜᴄᴄᴇssғᴜʟ Gᴇɴ https://telegra.ph/file/75037161c728abc18fd48.jpg",
+        "value": "https://telegra.ph/file/75037161c728abc18fd48.jpg",
         "required": false
       },
       "LOGGER_ID": {
