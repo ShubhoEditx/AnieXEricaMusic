@@ -1,7 +1,7 @@
 {
-    "name": "ᴀɴɪᴇ x ᴇɪᴄᴀ ᴍᴜꜱɪᴄ ʙᴏᴛ",
+    "name": "ᴍᴀʏᴀ ᴍᴜꜱɪᴄ ʙᴏᴛ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/b37803a767b15e939513d.png",
+    "logo": "Yᴏᴜʀ ʟɪɴᴋ sᴜᴄᴄᴇssғᴜʟ Gᴇɴ https://telegra.ph/file/bcf4d95e43ef064f07810.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "6435225",
+        "value": "20229565",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "4e984ea35f854762dcde906dce426c2d",
+        "value": "bb319dfa3d4f17588fc021c3833df3c3",
         "required": true
       },
       "BOT_TOKEN": {
@@ -39,38 +39,38 @@
       },
     "OWNER": {
         "description": "The user id of user whom you would like to add as OWNER.from @Sophia_x_MusicBot on Telegram.",
-        "value": "2105971379",
+        "value": "6007582960",
         "required": true
       },
     "GBAN_LOGS": {
         "description": "Logger group id add also",
-        "value": "-1002046393302",
+        "value": "-1002025640161",
         "required": true
       },
     "GCAST_USERS": {
         "description": "Gcast Users Only use Like : 5916859256 5916859256",
-        "value": "7045191057 2105971379",
+        "value": "6007582960 6681730327",
         "required": true
       },
     
     "BOTADDLOGS": {
         "description": "Logger group id add also",
-        "value": "-1001971806089",
+        "value": "-1002025640161",
         "required": true
       },
      "OWNER_USERNAME": {
         "description": "Add owner username without @",
-        "value": "New_AMBOT",
+        "value": "Chini_tomare",
         "required": true
       },
      "SUPPORT_CHANNEL": {
         "description": "Add channel link",
-        "value": "https://t.me/SuperBanSBots",
+        "value": "https://t.me/about_shubho",
         "required": true
       },
         "SUPPORT_CHAT": {
         "description": "Add Chat group & support group Link",
-        "value": "https://t.me/+jCS-YsVBVEE3NjQ1",
+        "value": "https://t.me/Maya_support_chat",
         "required": true
       },
       "STRING_SESSION": {
@@ -105,22 +105,22 @@
       },
       "START_IMG_URL": {
         "description": "Your Bot Start Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-        "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+        "value": "Yᴏᴜʀ ʟɪɴᴋ sᴜᴄᴄᴇssғᴜʟ Gᴇɴ https://telegra.ph/file/4cbba4b1d7a8ee1d82535.jpg",
         "required": false
       },
       "PING_IMG_URL": {
         "description": "Your Bot Ping Check Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-        "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+        "value": "Yᴏᴜʀ ʟɪɴᴋ sᴜᴄᴄᴇssғᴜʟ Gᴇɴ https://telegra.ph/file/26454b1d7de3155c07edb.jpg",
         "required": false
       },
       "STATS_IMG_URL": {
         "description": "Your Bot Stats Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-        "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+        "value": "Yᴏᴜʀ ʟɪɴᴋ sᴜᴄᴄᴇssғᴜʟ Gᴇɴ https://telegra.ph/file/75037161c728abc18fd48.jpg",
         "required": false
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1001971806089",
+        "value": "-1002025640161",
         "required": true
       }
     },
